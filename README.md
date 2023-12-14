@@ -23,15 +23,5 @@ The project is a desktop application developed in PyQt6, integrating with OpenAI
    git clone https://github.com/your-username/your-project.git
    cd your-project
 Install dependencies.
- --> pip install PyQt6
- --> pip install openai
-
-Configure OpenAI API Key.
-
-Rename config_example.ini to config.ini.
-Add your OpenAI API Key to config.ini.
-Usage
-Run the application using the following command:
-
-python main.py
-Adjust settings, input text, and explore the features through the user interface.
+- pip install PyQt6
+- pip install openai
