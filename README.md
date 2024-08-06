@@ -23,5 +23,5 @@ The project is a desktop application developed in PyQt6, integrating with OpenAI
    git clone https://github.com/your-username/your-project.git
    cd your-project
 Install dependencies.
-- pip install PyQt6
+- `pip install PyQt6`
 - pip install openai
