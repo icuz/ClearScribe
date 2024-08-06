@@ -24,4 +24,4 @@ The project is a desktop application developed in PyQt6, integrating with OpenAI
    cd your-project
 Install dependencies.
 - `pip install PyQt6`
-- pip install openai
+- `pip install openai`
